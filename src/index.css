@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme{
+    --color-primary: #3b823b;
+    --color-primary-dark: #0d0d0d;
+}
+main{
+    max-width: 1280px;
+    min-height: 90vh;
+    margin: auto;
+    padding: 10px;
+}
+/* @layer components {
+  .typography {
+    color: var(--color-gray-950);
+    a {
+      color: var(--color-blue-500);
+      &:hover {
+        color: var(--color-blue-800);
+      }
+    }
+  }
+} */

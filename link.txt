@@ -1,0 +1,60 @@
+api_key = 13d814bbb76fcc6b055a6162779f509f
+
+
+https://www.themoviedb.org/settings/api
+
+
+base_url = https://api.themoviedb.org/3
+
+cinemate-ul-234
+
+
+
+
+https://api.themoviedb.org/3/movie/11?api_key=13d814bbb76fcc6b055a6162779f509f
+
+
+https://reqbin.com/
+
+
+serach:
+https://api.themoviedb.org/3/search/movie
+
+
+https://developer.themoviedb.org/reference/find-by-id
+
+
+individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=13d814bbb76fcc6b055a6162779f509f
+
+now playing:
+https://api.themoviedb.org/3/movie/now_playing
+
+popular:
+https://api.themoviedb.org/3/movie/popular
+
+top-rated:
+https://api.themoviedb.org/3/movie/top_rated
+
+configuration = https://developer.themoviedb.org/reference/configuration-details
+
+serach_by_query = https://api.themoviedb.org/3/search/movie?query=Jack+Reacher
+
+
+serach_by_query = https://api.themoviedb.org/3/search/movie?query={movie_name}
+
+
+upcoming = https://api.themoviedb.org/3/movie/upcoming
+
+now_play_with_key:https://api.themoviedb.org/3/movie/now_playing?api_key=13d814bbb76fcc6b055a6162779f509f
+
+
+dns_change_link:https://www.youtube.com/watch?v=m596Mz9gYMQ
+
+
+dns:settings>internet>wifi>hardware porperties>dns server>manual>ipv4> preferred dns >> 8.8.8.8> alternate dns > 8.8.4.4
+
+
+img_path_demo:https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg
+
+img_path_base:https://image.tmdb.org/t/p/w500/
